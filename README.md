@@ -52,9 +52,6 @@ Celestial Ai accelerates exoplanet validation, empowers researchers, and makes o
 
 ---
 
-## 📑 Project Demo
-- **Slides (PDF):** [Celestial Ai Presentation](docs/Celestial_Ai_Presentation.pdf)   
-
 ---
 
 ## ⚖️ AI Usage Declaration
